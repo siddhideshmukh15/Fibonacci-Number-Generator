@@ -41,4 +41,4 @@ the number of terms entered by the user.
 
 ## Author
 
-Siddhi Deshmukh
+**Siddhi Deshmukh**

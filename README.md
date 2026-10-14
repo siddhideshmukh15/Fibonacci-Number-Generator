@@ -32,5 +32,5 @@ Fibonacci Number Generator is a beginner-friendly Python project that generates 
 - Add a graphical user interface (GUI).
 
 ## Author
-**Siddhi Deshmukh**
+Siddhi Deshmukh
 
